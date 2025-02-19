@@ -29,6 +29,7 @@ To explore Morley Labs, start by checking the [Documentation](https://github.com
 ## Contributing
 We welcome contributions from developers, engineers and researchers interested in bridging industrial automation and blockchain. See the [Documentation](https://github.com/Morley-Labs/Documentation) for guidelines on how to contribute.
 
+
 ## Links & Contact
 - **Website:** [morleylang.org](https://morleylang.org/)
 - **X (Twitter):** [@MorleyCardano](https://x.com/MorleyCardano)
