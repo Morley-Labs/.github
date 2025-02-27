@@ -8,8 +8,11 @@ Morley Labs is developing an open-source framework for integrating industrial au
 
 ## Repositories
 
-### [Morley-Core](https://github.com/Morley-Labs/Morley-Core)
-Library for Intermediate Representation (IR) between industrial automation languages and Cardano. This repository contains mappings, tests, and the full compiler pipeline for converting Ladder Logic and other automation languages into Plutus smart contracts.
+### [Morley-Core-Working](https://github.com/Morley-Labs/Morley-Core-Working)
+Library for Intermediate Representation (IR) between industrial automation languages and Cardano. This repository contains mappings, tests, and the current working compiler pipeline for converting Ladder Logic and other automation languages into Plutus smart contracts. *Updated as progress ensues.
+
+### [Morley-Core-Testing](https://github.com/Morley-Labs/Morley-Core-Testing)
+Library for Intermediate Representation (IR) between industrial automation languages and Cardano. This repository contains mappings, tests, and the full compiler pipeline for converting Ladder Logic and other automation languages into Plutus smart contracts. *Under construction.
 
 ### [Documentation](https://github.com/Morley-Labs/Documentation)
 Comprehensive documentation for the Morley ecosystem, including setup guides, component usage, and architecture references.
